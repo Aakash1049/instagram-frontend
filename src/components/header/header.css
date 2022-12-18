@@ -1,0 +1,50 @@
+.logo{
+    float: left;
+    margin-left: 10%;
+    margin-top: 8px;
+}
+.Navbar{
+    border-bottom: 1px solid black;
+}
+.create{
+    margin-left: 5%;
+}
+
+
+.logout{
+    margin-left: 5%;
+    margin-top: 18px;
+   
+}
+.logout button{
+    border-color: red;
+    background-color: red;
+    color: white
+}
+.login{
+    margin-left: 5%;
+}
+.myposts{
+    margin-left: 5%;
+}
+.header{
+    padding:0 155px;
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: flex-end;
+}
+.camera-icon{
+    margin-top: 15px;
+    margin-left: 10%;
+}
+h3{
+    padding: 3px 8px;
+    color: green;
+    text-decoration: none;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+h3:hover{
+    background-color: lightgreen;
+}
+

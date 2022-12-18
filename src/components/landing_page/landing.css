@@ -1,0 +1,24 @@
+.landing{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 7rem;
+
+}
+.enter{
+    color: green;
+    font-size: x-large;
+    align-items: center;
+    /* padding: auto; */
+    /* border: 5px solid; */
+    padding-top: 5%;
+    
+}
+
+button{
+    border: 2px solid green;
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 4px 8px;
+    color: green;
+}

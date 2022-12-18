@@ -1,0 +1,22 @@
+.toast-error{
+    color: white;
+    position: absolute;
+    top: 30px !important;
+    right: 20px !important;
+    left: auto !important;
+    border: 1px solid red;
+    background-color:red;
+    padding: 2px 5px;
+    border-radius: 4px;
+}
+.toast-success{
+    color: white;
+    position: absolute;
+    top: 30px !important;
+    right: 20px !important;
+    left: auto !important;
+    background-color: green;
+    border: 1px solid green;
+    padding: 2px 5px;
+    border-radius: 4px;
+}
